@@ -1,0 +1,5 @@
+﻿  Game.cpp
+  main.cpp
+  Generating Code...
+C:\Users\fredd\Documents\Comp Sci\Year 2\C++\Projects\Tetris\tetris\tetris\Game.cpp(306): warning C4715: 'Game::getNewTetromino': not all control paths return a value
+  tetris.vcxproj -> C:\Users\fredd\Documents\Comp Sci\Year 2\C++\Projects\Tetris\tetris\x64\Debug\tetris.exe
