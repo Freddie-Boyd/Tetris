@@ -150,10 +150,18 @@
   <ItemGroup>
     <ClInclude Include="Board.h" />
     <ClInclude Include="Game.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="Tetrominoes.h" />
     <ClInclude Include="Settings.h" />
     <ClInclude Include="raylibCpp.h" />
     <ClInclude Include="Vec2.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="tetris.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="TetrisIcon.ico" />
+    <Image Include="TetrisIcon.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
